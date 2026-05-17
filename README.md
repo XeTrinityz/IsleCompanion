@@ -6,9 +6,9 @@
 
 **The all-in-one companion app for The Isle — Evrima**
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/isle-companion-releases?style=flat-square&color=c0392b&label=latest)](https://github.com/YOUR_USERNAME/isle-companion-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square&logo=windows)](https://github.com/YOUR_USERNAME/isle-companion-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/isle-companion-releases/total?style=flat-square&color=27ae60)](https://github.com/YOUR_USERNAME/isle-companion-releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/XeTrinityz/IsleCompanion?style=flat-square&color=c0392b&label=latest)](https://github.com/XeTrinityz/IsleCompanion/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square&logo=windows)](https://github.com/XeTrinityz/IsleCompanion/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/XeTrinityz/IsleCompanion/total?style=flat-square&color=27ae60)](https://github.com/XeTrinityz/IsleCompanion/releases)
 
 ---
 
@@ -34,8 +34,8 @@
 
 ## Download & Install
 
-1. Go to the [**Releases**](https://github.com/YOUR_USERNAME/isle-companion-releases/releases/latest) page.
-2. Download the `.msi` installer (recommended) or the `.exe` setup file under **Assets**.
+1. Go to the [**Releases**](https://github.com/XeTrinityz/isle-companion-releases/releases/latest) page.
+2. Download the `.exe` setup file under **Assets**.
 3. Run the installer — no admin rights required for most setups.
 4. Launch **Isle Companion** from the Start Menu or desktop shortcut.
 
