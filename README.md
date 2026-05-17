@@ -34,8 +34,8 @@
 
 ## Download & Install
 
-1. Go to the [**Releases**](https://github.com/XeTrinityz/isle-companion-releases/releases/latest) page.
-2. Download the `.exe` setup file under **Assets**.
+1. Go to the [**Releases**](https://github.com/XeTrinityz/IsleCompanion/releases/latest) page.
+2. Download the `.exe` setup file under **Releases**.
 3. Run the installer — no admin rights required for most setups.
 4. Launch **Isle Companion** from the Start Menu or desktop shortcut.
 
