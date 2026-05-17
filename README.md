@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src-tauri/icons/128x128@2x.png" alt="Isle Companion Icon" width="96" />
+<img src="https://i.ibb.co/m5qxbGBn/logo.png" alt="Isle Companion Icon" width="96" />
 
 # Isle Companion
 
@@ -13,7 +13,7 @@
 ---
 
 <!-- Replace the line below with an actual screenshot once available -->
-![Isle Companion Screenshot](screenshot.png)
+![Isle Companion Screenshot](https://i.ibb.co/svWm33TG/image.png)
 
 ---
 
