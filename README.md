@@ -39,8 +39,6 @@
 3. Run the installer — no admin rights required for most setups.
 4. Launch **Isle Companion** from the Start Menu or desktop shortcut.
 
-> Updates are not automatic. Check this page for new releases.
-
 ---
 
 ## Requirements
