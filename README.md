@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/m5qxbGBn/logo.png" alt="Isle Companion Icon" width="96" />
+<img src="https://i.ibb.co/YTd6CHCt/logo.png" alt="Isle Companion Icon" width="96" />
 
 # Isle Companion
 
