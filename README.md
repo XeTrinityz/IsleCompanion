@@ -13,7 +13,7 @@
 ---
 
 <!-- Replace the line below with an actual screenshot once available -->
-![Isle Companion Screenshot](https://i.ibb.co/svWm33TG/image.png)
+![Isle Companion Screenshot](https://i.ibb.co/yv5Y6kV/image.png)
 
 ---
 
